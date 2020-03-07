@@ -9,6 +9,9 @@ March 7, 2020
 ## Project Overview
 Build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
 
+## Application Screenshot
+![under_construction](images/under-construction.png)
+
 #### Data Source(s):
 - [News - NASA's Mars Exploration Program](https://mars.nasa.gov/news/)
 - [Space Images/Mars - Nasa Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)

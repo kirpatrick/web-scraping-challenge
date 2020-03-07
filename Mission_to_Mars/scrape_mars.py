@@ -1,3 +1,8 @@
+# Section II Data Collection Script
+# Convert the 'mission_to_mars.ipynb' into this Python script
+# Add function called scrape that will execute all of your scraping code
+
+# Import Dependencies
 from splinter import Browser
 from bs4 import BeautifulSoup
 

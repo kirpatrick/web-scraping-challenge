@@ -1,3 +1,8 @@
+# Section III.  Data Collection Application
+# Create a flask app that you will import into the scrape_mars.py script.
+# Create a route called /scrape will import your scrape_mars.py script and call your scrape function.
+# Create a root route / that will query your Mongo database and pass the mars data into an HTML template to display the data.
+
 from flask import Flask, render_template, redirect
 from flask_pymongo import PyMongo
 import scrape_craigslist
