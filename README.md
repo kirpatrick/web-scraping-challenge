@@ -27,7 +27,7 @@ Use the following components to reproduce challenge results.  Detailed execution
 * <b>Section IV:</b>  [Web Page Creation (HTML)](./index.html)
 
 ## Source
-[SMU DS Boot Camp - Web Scraping and Document Databases](https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/SMU-DAL-DATA-PT-11-2019-U-C/tree/master/02-Homework/12-Web-Scraping-and-Document-Databases/Instructions)
+[SMU DS Boot Camp - Web Scraping and Document Databases](https://techbootcamps.smu.edu/data/)
 
 ## Tech Stack
 - [Git 2.17.1](https://git-scm.com/downloads)
